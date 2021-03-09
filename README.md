@@ -1,1 +1,1 @@
-# 2-praktiskais
+Sis ir pirmais labojums
